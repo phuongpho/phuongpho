@@ -2,25 +2,9 @@
 
 Welcome to my GitHub page. I'm a PhD in Big Data Analytics. My research interest includes learning representation on graph structured data, anomaly detection, and dimensionality reduction.
 
-## Education
-- **Doctor of Philosophy** in Big Data Analytics, University of Central Florida (2018 - 2022)
-    - [Dissertation](https://stars.library.ucf.edu/etd2020/1068/): "Graph Neural Networks for Improved Interpretability and Efficiency"
-- **Master of Science** in Statistical Computing, University of Central Florida (2016 - 2018)
-    
-## Publications
-- [Regularized Simple Graph Convolution (SGC) for improved interpretability of large datasets](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00366-x): We propose a flexible penalization scheme on the SGC to simplify the inference process and facilitate investigation of important features for node classification task
-- [Exploring the Value of Nodes with Multicommunity Membership for Classification with Graph Convolutional Neural Networks](https://www.mdpi.com/2078-2489/12/4/170): We investigate optimal sampling strategies to improve the efficiency of GNNs.
-- [Exploring a link between network topology and active learning
-](https://ieeexplore.ieee.org/abstract/document/9528662): We conduct simulation study on sampling process and propose indicative guildlines to select optimal sampling strategy for the SGC
-- [Link prediction with Simple Graph Convolution and regularized Simple Graph Convolution](http://www.icisdm.org/index.html): We adopt the regularized SGC for link prediction task
-- [Exploring the Regularized SGC in application to social network data](http://socialsens.web.illinois.edu/program.html): We conduct simulation study to validates the capability of the regularized SGC under various network topologies
-
-## Find me on
-[<img src="./logos/LI-In-Bug.png" height="40em" align="center" title="Patrick Pho's LinkedIn"/>](https://www.linkedin.com/in/phuong-pho/)
-[<img src="./logos/Twitter.png" height="40em" align="center" title="Patrick Pho's Twitter"/>](https://twitter.com/ptrpho)
-
+## News & Updates 
 <details>
-<summary>News & Updates: (Click to expand)</summary>
+<summary>(Click to expand)</summary>
 
 <p>
 <div style="width:100%;overflow-y:scroll; height:230px;">
@@ -38,4 +22,26 @@ Welcome to my GitHub page. I'm a PhD in Big Data Analytics. My research interest
 <li>August 2018: Started PhD program.</a></li>
 <li>May 2018: Graduated master program.</a></li>
 <li>March 2017: Won 1st place in Touring Plans’ Big Data Challenge on<a href="https://sciences.ucf.edu/news/predicting-wait-times-disney/" target="_blank"> Predicting wait times for multiple Walt Disney World attractions. </a></li>
+</ul>
+</div>
+</p>
+</details>
+
+## Publications
+- [Regularized Simple Graph Convolution (SGC) for improved interpretability of large datasets](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00366-x): We propose a flexible penalization scheme on the SGC to simplify the inference process and facilitate investigation of important features for node classification task
+- [Exploring the Value of Nodes with Multicommunity Membership for Classification with Graph Convolutional Neural Networks](https://www.mdpi.com/2078-2489/12/4/170): We investigate optimal sampling strategies to improve the efficiency of GNNs.
+- [Exploring a link between network topology and active learning
+](https://ieeexplore.ieee.org/abstract/document/9528662): We conduct simulation study on sampling process and propose indicative guildlines to select optimal sampling strategy for the SGC
+- [Link prediction with Simple Graph Convolution and regularized Simple Graph Convolution](http://www.icisdm.org/index.html): We adopt the regularized SGC for link prediction task
+- [Exploring the Regularized SGC in application to social network data](http://socialsens.web.illinois.edu/program.html): We conduct simulation study to validates the capability of the regularized SGC under various network topologies
+
+## Education
+- **Doctor of Philosophy** in Big Data Analytics, University of Central Florida (2018 - 2022)
+    - [Dissertation](https://stars.library.ucf.edu/etd2020/1068/): "Graph Neural Networks for Improved Interpretability and Efficiency"
+- **Master of Science** in Statistical Computing, University of Central Florida (2016 - 2018)
+    
+
+## Find me on
+[<img src="./logos/LI-In-Bug.png" height="40em" align="center" title="Patrick Pho's LinkedIn"/>](https://www.linkedin.com/in/phuong-pho/)
+[<img src="./logos/Twitter.png" height="40em" align="center" title="Patrick Pho's Twitter"/>](https://twitter.com/ptrpho)
 
