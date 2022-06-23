@@ -33,12 +33,13 @@ Welcome to my GitHub page. I'm a PhD in Big Data Analytics. My research interest
 - [Exploring a link between network topology and active learning
 ](https://ieeexplore.ieee.org/abstract/document/9528662): We conduct simulation study on sampling process and propose indicative guildlines to select optimal sampling strategy for the SGC
 - [Link prediction with Simple Graph Convolution and regularized Simple Graph Convolution](http://www.icisdm.org/index.html): We adopt the regularized SGC for link prediction task
-- [Exploring the Regularized SGC in application to social network data](http://socialsens.web.illinois.edu/program.html): We conduct simulation study to validates the capability of the regularized SGC under various network topologies
+- [Exploring the Regularized SGC in application to social network data](http://socialsens.web.illinois.edu/program.html): We conduct simulation study to validate the predictive capability of the proposed regularized SGC under various network topologies.
 
 ## Education
 - **Doctor of Philosophy** in Big Data Analytics, University of Central Florida (2018 - 2022)
     - [Dissertation](https://stars.library.ucf.edu/etd2020/1068/): "Graph Neural Networks for Improved Interpretability and Efficiency"
 - **Master of Science** in Statistical Computing, University of Central Florida (2016 - 2018)
+    - Research project: "Comparision of anomaly detection algorithms SVDD, OCSTM, LS-OCSTM, STDD, LS-STDD"
     
 
 ## Find me on
