@@ -45,7 +45,7 @@ For more updates, please visit my [personal page](https://patrickphophd.com).
     
 
 ## Find me on
-[<img src="./logos/web-icon.png" height="40em" align="center" title="Patrick Pho's Webpage"/>](https://patrickphophd.com)
+[<img src="./logos/website-icon.png" height="40em" align="center" title="Patrick Pho's Webpage"/>](https://patrickphophd.com)
 [<img src="./logos/LI-In-Bug.png" height="40em" align="center" title="Patrick Pho's LinkedIn"/>](https://www.linkedin.com/in/phuong-pho/)
 [<img src="./logos/Twitter.png" height="40em" align="center" title="Patrick Pho's Twitter"/>](https://twitter.com/ptrpho)
 
