@@ -27,7 +27,7 @@ Welcome to my GitHub page. I'm a PhD in Big Data Analytics. My research interest
 </p>
 </details>
 
-For more updates, please visit my [personal page](patrickphophd.com).
+For more updates, please visit my [personal page](https://patrickphophd.com).
 
 ## Publications
 - [Regularized Simple Graph Convolution (SGC) for improved interpretability of large datasets](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00366-x): We propose a flexible penalization scheme on the SGC to simplify the inference process and facilitate investigation of important features for node classification task
