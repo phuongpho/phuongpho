@@ -27,6 +27,8 @@ Welcome to my GitHub page. I'm a PhD in Big Data Analytics. My research interest
 </p>
 </details>
 
+For more updates, please visit my [personal page](patrickphophd.com).
+
 ## Publications
 - [Regularized Simple Graph Convolution (SGC) for improved interpretability of large datasets](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00366-x): We propose a flexible penalization scheme on the SGC to simplify the inference process and facilitate investigation of important features for node classification task
 - [Exploring the Value of Nodes with Multicommunity Membership for Classification with Graph Convolutional Neural Networks](https://www.mdpi.com/2078-2489/12/4/170): We investigate optimal sampling strategies to improve the efficiency of GNNs.
@@ -43,6 +45,7 @@ Welcome to my GitHub page. I'm a PhD in Big Data Analytics. My research interest
     
 
 ## Find me on
+[<img src="./logos/web-icon.png" height="40em" align="center" title="Patrick Pho's Webpage"/>](https://patrickphophd.com)
 [<img src="./logos/LI-In-Bug.png" height="40em" align="center" title="Patrick Pho's LinkedIn"/>](https://www.linkedin.com/in/phuong-pho/)
 [<img src="./logos/Twitter.png" height="40em" align="center" title="Patrick Pho's Twitter"/>](https://twitter.com/ptrpho)
 
